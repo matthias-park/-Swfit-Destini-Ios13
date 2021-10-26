@@ -2,7 +2,7 @@
 
 ## _Destini Project - Ios13_
 
-##Demo Play
+## Demo Play
 
 <img width="418" alt="Screen Shot 2021-10-25 at 9 39 11 PM" src="https://user-images.githubusercontent.com/58765324/138812277-8121b5eb-37a2-4a14-850f-d0be66bfc00d.png">
 
